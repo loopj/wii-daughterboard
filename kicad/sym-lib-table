@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name 1v15)(type Legacy)(uri ${KIPRJMOD}/libraries/project-symbols/1v15.lib)(options "")(descr ""))
+  (lib (name PTH08080WAH)(type Legacy)(uri ${KIPRJMOD}/libraries/project-symbols/PTH08080WAH.lib)(options "")(descr ""))
+  (lib (name SiP32510)(type Legacy)(uri ${KIPRJMOD}/libraries/project-symbols/SiP32510.lib)(options "")(descr ""))
+  (lib (name TLV62585DRL)(type Legacy)(uri ${KIPRJMOD}/libraries/project-symbols/TLV62585DRL.lib)(options "")(descr ""))
+  (lib (name MIC94053)(type Legacy)(uri ${KIPRJMOD}/libraries/project-symbols/MIC94053.lib)(options "")(descr ""))
+  (lib (name USB4105-GF-A)(type Legacy)(uri ${KIPRJMOD}/libraries/project-symbols/USB4105-GF-A.lib)(options "")(descr ""))
+)
